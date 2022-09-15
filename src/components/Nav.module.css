@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Nabla&family=Open+Sans:wght@400;600&display=swap");
+
+.nav {
+  padding: 10px 0px;
+}
+
+.app_icon {
+  font-size: 28px;
+  letter-spacing: -3px;
+  font-family: "Nabla", cursive;
+  margin-right: 30px;
+}

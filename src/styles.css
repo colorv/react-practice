@@ -1,0 +1,36 @@
+body {
+  background-color: #141517;
+  color: white;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  width: 100%;
+  max-width: 1600px;
+}
+
+article {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+nav {
+  display: flex;
+  width: 1550px;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited,
+a:link {
+  color: white;
+}
